@@ -56,7 +56,7 @@
                 &.importance {
                     font-size: 16px;
                     color: #c73833;
-                    margin: 0 5spx;
+                    margin: 0 5px;
                 }
             }
 
